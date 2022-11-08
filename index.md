@@ -1,5 +1,6 @@
-# A Journey Through Code
-## By Dan Hayes
-### A blog to document my coding journey
+---
+title: "Welcome to A Journey Through Code by Dan Hayes"
+---
+
 
 
