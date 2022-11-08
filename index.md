@@ -1,5 +1,5 @@
 # A Journey Through Code
-## Dan Hayes
+## By Dan Hayes
 ### A blog to document my coding journey
 
 
