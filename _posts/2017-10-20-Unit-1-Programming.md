@@ -2,7 +2,7 @@
 layout: post
 title: "Unit 1 - Programming"
 date: 2017-10-20
-catagories: HNC-Computing Research
+tags: HNC-Computing Research
 ---
 
 This is a research project looking at algorithms and how they are implemented to create applications.
