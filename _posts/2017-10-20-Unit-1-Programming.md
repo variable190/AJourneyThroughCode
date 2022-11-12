@@ -10,4 +10,4 @@ This is a research project looking at algorithms and how they are implemented to
 
 [Presentation](https://drive.proton.me/urls/WZJRMWVCWG#0FZeOnqc45QD)
 
-[Practical](https://github.com/DanJamesHayes/HNC_code/tree/main/employee_record_system)
+[Code](https://github.com/DanJamesHayes/HNC_code/tree/main/employee_record_system)
