@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unit 21 - Data Mining"
-date: 2018-12-20
+date: 2019-02-20
 ---
 
 An historical and theoretical review of data mining.
