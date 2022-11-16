@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unit 47 - Game Development"
-date: 2019-05-20
+date: 2019-06-20
 ---
 
 Documentation and code for the complete development of a chess game from preproduction to testing.
