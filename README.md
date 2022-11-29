@@ -1,4 +1,4 @@
-# Landing page
+# A Journey Through Code
 
 This is a landing page/blog to catalogue my coding work.
 
